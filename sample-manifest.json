@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5957fdd1-4c25-4540-84f6-cb67b69d8b14",
+  "id_short": 267485,
+  "published_at": "2026-04-11T07:16:48Z",
+  "repo_name": "all-restaurants-in-centennial-colorado-us-sample-267485",
+  "sample_asset_name": "beamstation_267485_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/267485/beamstation_267485_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "dfe0743f9efb514c9a41aec8ea249ed027156ac399a9f4864d47c149504d46d6",
+  "sample_size_bytes": 90367,
+  "total_records": 188
+}
