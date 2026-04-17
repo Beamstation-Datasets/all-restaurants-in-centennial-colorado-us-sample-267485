@@ -1,6 +1,6 @@
 # All Restaurants in Centennial, Colorado, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `267485` |
 | Location | Centennial |
 | Category | Restaurants |
-| Full dataset size | 188 records |
-| Free sample size | 18 records (9.57%) |
-| Last export | 2026-03-31T14:29:00.184820+00:00 |
+| Full dataset size | 274 records |
+| Free sample size | 27 records (9.85%) |
+| Last export | 2026-04-14T14:51:38.977055+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-centennial-colorado-us-sample-267485/releases/download/sample-latest/beamstation_267485_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
